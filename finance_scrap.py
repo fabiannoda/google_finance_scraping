@@ -41,17 +41,18 @@ clickable_stocks = driver.find_elements(By.XPATH, '//div[@role="navigation"]//di
 categories = [el.text for el in driver.find_elements(By.XPATH, '//div[@role="navigation"]//div[@role="tablist"]//a')]
 
 df_list = []
-
-for i in range(len(clickable_stocks)):
+for i in range(len(categories)):
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     element_xpath = f'(//div[@role="navigation"]//div[@role="tablist"]//a)[{i+1}]'
     ignored_exceptions=(NoSuchElementException,StaleElementReferenceException,)
-    element = WebDriverWait(driver, 3, ignored_exceptions=ignored_exceptions).until(expected_conditions.presence_of_element_located((By.XPATH, element_xpath)))
-    df_list.append(get_stocks(driver, categories[i]))
+    element = WebDriverWait(driver, 2, ignored_exceptions=ignored_exceptions).until(expected_conditions.presence_of_element_located((By.XPATH, element_xpath)))
     driver.execute_script("arguments[0].click();", element)
     new_url = driver.window_handles[0]
     driver.switch_to.window(new_url)
-    time.sleep(3)
+    time.sleep(2)
+    df_list.append(get_stocks(driver, categories[i]))
+    
+
 
 final_stocks: pd.DataFrame = pd.concat(df_list)
 final_stocks.to_csv('./extracted_data/stocks.csv', index=False)
