@@ -1,0 +1,345 @@
+stock_abreviation,names,price,before_price_compare,percentage,category
+ÍNDICE,S&P 500,"4,369.71",-0.65,Disminuyó un 0.015 %,Índices de mercado
+ÍNDICE,Promedio Industrial Dow Jones,"34,500.66",+25.83,Aumentó un 0.075 %,Índices de mercado
+ÍNDICE,Nasdaq Composite,"13,290.78",-26.16,Disminuyó un 0.20 %,Índices de mercado
+ÍNDICE,Índice Russell 2000,"1,859.42",+9.36,Aumentó un 0.51 %,Índices de mercado
+ÍNDICE,S&P/TSX Composite Index,"19,818.39",+6.16,Aumentó un 0.031 %,Índices de mercado
+ÍNDICE,Índice Bovespa,"115,408.52",+426.23,Aumentó un 0.37 %,Índices de mercado
+ÍNDICE,DAX,"15,574.26",-102.64,Disminuyó un 0.65 %,Índices de mercado
+ÍNDICE,FTSE 100,"7,262.43",-47.78,Disminuyó un 0.65 %,Índices de mercado
+ÍNDICE,CAC 40,"7,164.11",-27.63,Disminuyó un 0.38 %,Índices de mercado
+ÍNDICE,IBEX 35,"9,260.30",-17.70,Disminuyó un 0.19 %,Índices de mercado
+ÍNDICE,EURO STOXX 50,"4,212.95",-14.88,Disminuyó un 0.35 %,Índices de mercado
+ÍNDICE,S&P EURO,"1,863.82",-7.64,Disminuyó un 0.41 %,Índices de mercado
+ÍNDICE,Nikkei 225,"31,450.76",-175.24,Disminuyó un 0.55 %,Índices de mercado
+ÍNDICE,SSE Composite Index,"3,131.95",-31.79,Disminuyó un 1.00 %,Índices de mercado
+ÍNDICE,Hang Seng Index,"17,950.85",-375.78,Disminuyó un 2.05 %,Índices de mercado
+ÍNDICE,BSE Sensex,"64,948.66",-202.36,Disminuyó un 0.31 %,Índices de mercado
+ÍNDICE,NIFTY 50,"19,310.15",-55.10,Disminuyó un 0.28 %,Índices de mercado
+ÍNDICE,S&P Asia 50,"4,384.19",-58.24,Disminuyó un 1.31 %,Índices de mercado
+ÍNDICE,S&P 500,"4,369.71",-0.65,Disminuyó un 0.015 %,Con más actividad
+ÍNDICE,Promedio Industrial Dow Jones,"34,500.66",+25.83,Aumentó un 0.075 %,Con más actividad
+ÍNDICE,Nasdaq Composite,"13,290.78",-26.16,Disminuyó un 0.20 %,Con más actividad
+ÍNDICE,Índice Russell 2000,"1,859.42",+9.36,Aumentó un 0.51 %,Con más actividad
+ÍNDICE,S&P/TSX Composite Index,"19,818.39",+6.16,Aumentó un 0.031 %,Con más actividad
+ÍNDICE,Índice Bovespa,"115,408.52",+426.23,Aumentó un 0.37 %,Con más actividad
+ÍNDICE,DAX,"15,574.26",-102.64,Disminuyó un 0.65 %,Con más actividad
+ÍNDICE,FTSE 100,"7,262.43",-47.78,Disminuyó un 0.65 %,Con más actividad
+ÍNDICE,CAC 40,"7,164.11",-27.63,Disminuyó un 0.38 %,Con más actividad
+ÍNDICE,IBEX 35,"9,260.30",-17.70,Disminuyó un 0.19 %,Con más actividad
+ÍNDICE,EURO STOXX 50,"4,212.95",-14.88,Disminuyó un 0.35 %,Con más actividad
+ÍNDICE,S&P EURO,"1,863.82",-7.64,Disminuyó un 0.41 %,Con más actividad
+ÍNDICE,Nikkei 225,"31,450.76",-175.24,Disminuyó un 0.55 %,Con más actividad
+ÍNDICE,SSE Composite Index,"3,131.95",-31.79,Disminuyó un 1.00 %,Con más actividad
+ÍNDICE,Hang Seng Index,"17,950.85",-375.78,Disminuyó un 2.05 %,Con más actividad
+ÍNDICE,BSE Sensex,"64,948.66",-202.36,Disminuyó un 0.31 %,Con más actividad
+ÍNDICE,NIFTY 50,"19,310.15",-55.10,Disminuyó un 0.28 %,Con más actividad
+ÍNDICE,S&P Asia 50,"4,384.19",-58.24,Disminuyó un 1.31 %,Con más actividad
+TSLA,Tesla Motors,$215.49,-$3.73,Disminuyó un 1.70 %,Al alza
+KVUE,Kenvue Inc,$22.87,+$0.090,Aumentó un 0.40 %,Al alza
+PLTR,Palantir Technologies,$14.40,+$0.25,Aumentó un 1.77 %,Al alza
+NIO,Nio Inc - ADR,$10.67,-$0.83,Disminuyó un 7.22 %,Al alza
+MPW,Medical Properties Trust Inc,$6.93,-$0.57,Disminuyó un 7.60 %,Al alza
+QQQ,Invesco QQQ Trust Series 1,$358.13,-$0.45,Disminuyó un 0.13 %,Al alza
+AAPL,Apple,$174.49,+$0.49,Aumentó un 0.28 %,Al alza
+AMD,Advanced Micro Devices,$105.45,+$1.01,Aumentó un 0.97 %,Al alza
+NVDA,NVIDIA,$432.99,-$0.45,Disminuyó un 0.10 %,Al alza
+AMC,AMC Entertainment Holdings Inc,$4.09,+$0.050,Aumentó un 1.24 %,Al alza
+JNJ,Johnson & Johnson,$172.49,-$1.52,Disminuyó un 0.87 %,Al alza
+AMZN,Amazon,$133.22,-$0.76,Disminuyó un 0.57 %,Al alza
+F,Ford Motor Company,$11.96,+$0.13,Aumentó un 1.10 %,Al alza
+META,Meta,$283.25,-$1.84,Disminuyó un 0.65 %,Al alza
+T,AT&T,$14.05,+$0.040,Aumentó un 0.29 %,Al alza
+NU,Nu Holdings Ltd,$7.21,+$0.070,Aumentó un 0.98 %,Al alza
+BAC,Bank of America,$29.11,-$0.17,Disminuyó un 0.58 %,Al alza
+GOOGL,Alphabet,$127.46,-$2.46,Disminuyó un 1.89 %,Al alza
+APE,AMC Entertainment Hldg Pref Equity Units Depositary Share Rep 1 100th Int Convertible Prf Shs Series A,$2.27,+$0.080,Aumentó un 3.65 %,Al alza
+CSCO,Cisco Systems,$55.04,+$0.31,Aumentó un 0.57 %,Al alza
+DNA,Ginkgo Bioworks Holdings Inc,$1.62,+$0.0100,Aumentó un 0.62 %,Al alza
+SOFI,"Social Finance, Inc.",$8.22,+$0.11,Aumentó un 1.36 %,Al alza
+RIVN,Rivian,$20.78,-$0.17,Disminuyó un 0.81 %,Al alza
+CCL,Carnival Corporation & plc,$15.59,-$0.21,Disminuyó un 1.33 %,Al alza
+CIG,Companhia Energética de Minas Gerais,$2.37,$0.00,Cambió en un 0.00 %,Al alza
+MSFT,Microsoft,$316.48,-$0.40,Disminuyó un 0.13 %,Al alza
+TLT,iShares 20 Plus Year Treasury Bond ETF,$93.77,+$0.33,Aumentó un 0.35 %,Al alza
+PFE,Pfizer,$36.66,+$0.15,Aumentó un 0.41 %,Al alza
+INTC,Intel Corporation,$32.75,+$0.17,Aumentó un 0.52 %,Al alza
+GOOG,Alphabet,$128.11,-$2.35,Disminuyó un 1.80 %,Al alza
+XPEV,Xpeng Inc - ADR,$14.98,-$0.67,Disminuyó un 4.28 %,Al alza
+OPEN,Opendoor,$3.16,-$0.100,Disminuyó un 3.07 %,Al alza
+LCID,Lucid Motors,$6.18,-$0.050,Disminuyó un 0.80 %,Al alza
+VALE,Vale S.A.,$12.31,-$0.080,Disminuyó un 0.65 %,Al alza
+VZ,Verizon Communications,$33.18,+$0.12,Aumentó un 0.36 %,Al alza
+AAL,American Airlines Group,$15.04,-$0.010,Disminuyó un 0.066 %,Al alza
+SWN,Southwestern Energy Co,$6.50,-$0.060,Disminuyó un 0.91 %,Al alza
+BABA,Alibaba Group,$88.03,-$2.62,Disminuyó un 2.89 %,Al alza
+CHK,Chesapeake Energy,$85.93,-$0.32,Disminuyó un 0.37 %,Al alza
+RIOT,Riot Blockchain,$11.07,-$0.64,Disminuyó un 5.47 %,Al alza
+KMI,Kinder Morgan,$17.43,+$0.090,Aumentó un 0.52 %,Al alza
+PYPL,PayPal,$59.42,+$0.82,Aumentó un 1.40 %,Al alza
+BBD,Bradesco,$3.04,+$0.020,Aumentó un 0.66 %,Al alza
+CMCSA,Comcast,$45.76,-$0.48,Disminuyó un 1.04 %,Al alza
+AGNC,AGNC Investment Corp,$9.48,+$0.030,Aumentó un 0.32 %,Al alza
+UBER,Uber,$44.69,+$0.72,Aumentó un 1.64 %,Al alza
+JD,JD.com,$33.11,-$1.65,Disminuyó un 4.75 %,Al alza
+PCG,PG&E Corp,$16.72,+$0.060,Aumentó un 0.36 %,Al alza
+XOM,ExxonMobil,$110.04,+$1.64,Aumentó un 1.51 %,Al alza
+JBLU,JetBlue Airways,$6.35,-$0.11,Disminuyó un 1.70 %,Al alza
+FRHC,Freedom Holding Corp,$87.48,+$17.63,Aumentó un 25.24 %,A la baja
+DLB,Dolby,$84.81,+$7.99,Aumentó un 10.40 %,A la baja
+BILL,BILL Holdings Inc,$110.97,+$9.41,Aumentó un 9.27 %,A la baja
+BLMN,Bloomin' Brands Inc,$27.85,+$2.23,Aumentó un 8.70 %,A la baja
+GLOB,Globant,$175.90,+$12.92,Aumentó un 7.93 %,A la baja
+CAAP,Corporacion America Airports SA,$14.42,+$1.02,Aumentó un 7.61 %,A la baja
+FLNC,Fluence Energy Inc,$22.83,+$1.55,Aumentó un 7.28 %,A la baja
+MORF,Morphic Holding Inc,$54.22,+$3.47,Aumentó un 6.84 %,A la baja
+ALVO,Alvotech SA,$9.57,+$0.59,Aumentó un 6.57 %,A la baja
+GOL,Gol Transportes Aéreos,$3.29,+$0.19,Aumentó un 6.13 %,A la baja
+RKLB,Rocket Lab USA Inc,$5.86,+$0.30,Aumentó un 5.40 %,A la baja
+NPWR,NET Power Inc,$15.41,+$0.78,Aumentó un 5.33 %,A la baja
+CVNA,Carvana,$39.21,+$1.97,Aumentó un 5.29 %,A la baja
+XP,XP Inc,$24.88,+$1.25,Aumentó un 5.29 %,A la baja
+IOT,Samsara Inc,$24.01,+$1.17,Aumentó un 5.12 %,A la baja
+ANF,Abercrombie & Fitch,$43.20,+$2.09,Aumentó un 5.08 %,A la baja
+PCVX,Vaxcyte Inc,$49.82,+$2.40,Aumentó un 5.06 %,A la baja
+ROST,Ross Stores,$118.72,+$5.66,Aumentó un 5.01 %,A la baja
+SVV,Savers Value Village Inc,$25.97,+$1.17,Aumentó un 4.72 %,A la baja
+CBD,Companhia Brasileira De Distribuicao,$4.02,+$0.18,Aumentó un 4.69 %,A la baja
+AZUL,Azul SA,$9.56,+$0.42,Aumentó un 4.60 %,A la baja
+IMVT,Immunovant Inc,$20.48,+$0.89,Aumentó un 4.54 %,A la baja
+NVEI,Nuvei Corp,$17.67,+$0.73,Aumentó un 4.31 %,A la baja
+LTH,Life Time Group Holdings Inc,$16.75,+$0.69,Aumentó un 4.30 %,A la baja
+HASI,Hannon Armstrong Sustnbl Infrstr Cap Inc,$21.03,+$0.86,Aumentó un 4.26 %,A la baja
+SFM,Sprouts,$39.12,+$1.59,Aumentó un 4.24 %,A la baja
+GH,Guardant Health Inc,$37.01,+$1.46,Aumentó un 4.11 %,A la baja
+NS,NuStar Energy L.P.,$16.56,+$0.65,Aumentó un 4.09 %,A la baja
+XENE,Xenon Pharmaceuticals Inc,$36.49,+$1.42,Aumentó un 4.05 %,A la baja
+LAZR,Luminar Technologies Inc,$5.79,+$0.22,Aumentó un 3.95 %,A la baja
+LITE,Lumentum Holdings Inc,$47.98,+$1.78,Aumentó un 3.85 %,A la baja
+TMDX,TransMedics Group Inc,$65.42,+$2.42,Aumentó un 3.84 %,A la baja
+AUR,Aurora Innovation Inc,$3.28,+$0.12,Aumentó un 3.80 %,A la baja
+RELY,Remitly Global Inc,$23.99,+$0.87,Aumentó un 3.76 %,A la baja
+IRTC,Irhythm Technologies Inc,$110.05,+$3.97,Aumentó un 3.74 %,A la baja
+DDOG,Datadog,$93.63,+$3.34,Aumentó un 3.70 %,A la baja
+AMAT,"Applied Materials, Inc.",$142.66,+$5.07,Aumentó un 3.68 %,A la baja
+ARRY,Array Technologies Inc,$21.16,+$0.75,Aumentó un 3.67 %,A la baja
+APE,AMC Entertainment Hldg Pref Equity Units Depositary Share Rep 1 100th Int Convertible Prf Shs Series A,$2.27,+$0.080,Aumentó un 3.65 %,A la baja
+KSS,Kohl's,$28.13,+$0.96,Aumentó un 3.53 %,A la baja
+RLX,RLX Technology Inc - ADR,$1.47,+$0.050,Aumentó un 3.52 %,A la baja
+LSPD,Lightspeed Commerce Inc,$15.56,+$0.52,Aumentó un 3.46 %,A la baja
+ESTE,Earthstone Energy Inc,$16.23,+$0.54,Aumentó un 3.44 %,A la baja
+STAA,STAAR Surgical Co,$43.05,+$1.42,Aumentó un 3.41 %,A la baja
+PAYO,Payoneer,$5.83,+$0.19,Aumentó un 3.37 %,A la baja
+ASAI,Sendas Distribuidora SA,$13.53,+$0.44,Aumentó un 3.36 %,A la baja
+INTA,Intapp Inc,$35.86,+$1.15,Aumentó un 3.31 %,A la baja
+TDW,Tidewater,$61.42,+$1.93,Aumentó un 3.24 %,A la baja
+CELH,"Celsius Holdings, Inc.",$174.79,+$5.44,Aumentó un 3.21 %,A la baja
+CAMT,Camtek LTD.,$46.06,+$1.43,Aumentó un 3.20 %,A la baja
+BSAQ,VinFast Auto Ltd,$10.45,-$4.32,Disminuyó un 29.25 %,Líderes en materia de clima
+VFS,VinFast Auto Ltd,$15.40,-$4.60,Disminuyó un 23.00 %,Líderes en materia de clima
+KEYS,Keysight Technologies,$129.37,-$20.68,Disminuyó un 13.78 %,Líderes en materia de clima
+ATAT,Atour Lifestyle Holdings Ltd - ADR,$20.15,-$1.85,Disminuyó un 8.41 %,Líderes en materia de clima
+VIPS,Vipshop Holdings Ltd - ADR,$14.93,-$1.30,Disminuyó un 8.01 %,Líderes en materia de clima
+MPW,Medical Properties Trust Inc,$6.93,-$0.57,Disminuyó un 7.60 %,Líderes en materia de clima
+NIO,Nio Inc - ADR,$10.67,-$0.83,Disminuyó un 7.22 %,Líderes en materia de clima
+BILI,Bilibili Inc - ADR,$14.37,-$0.98,Disminuyó un 6.38 %,Líderes en materia de clima
+FYBR,Frontier Communications,$15.46,-$0.96,Disminuyó un 5.85 %,Líderes en materia de clima
+HCM,HUTCHMED (China) Ltd,$13.22,-$0.78,Disminuyó un 5.57 %,Líderes en materia de clima
+RIOT,Riot Blockchain,$11.07,-$0.64,Disminuyó un 5.47 %,Líderes en materia de clima
+TKC,Turkcell,$4.75,-$0.27,Disminuyó un 5.38 %,Líderes en materia de clima
+GDS,GDS Holdings Ltd - ADR,$10.44,-$0.59,Disminuyó un 5.35 %,Líderes en materia de clima
+DE,Deere & Company,$397.02,-$22.14,Disminuyó un 5.28 %,Líderes en materia de clima
+MSTR,MicroStrategy,$328.62,-$18.17,Disminuyó un 5.24 %,Líderes en materia de clima
+LI,Li Auto Inc,$38.83,-$1.99,Disminuyó un 4.88 %,Líderes en materia de clima
+JD,JD.com,$33.11,-$1.65,Disminuyó un 4.75 %,Líderes en materia de clima
+CNMD,Conmed Corp,$104.95,-$4.95,Disminuyó un 4.50 %,Líderes en materia de clima
+OMCL,Omnicell Inc,$58.47,-$2.70,Disminuyó un 4.41 %,Líderes en materia de clima
+MRNA,Moderna,$101.62,-$4.62,Disminuyó un 4.35 %,Líderes en materia de clima
+WB,Weibo Corp,$12.65,-$0.57,Disminuyó un 4.31 %,Líderes en materia de clima
+XPEV,Xpeng Inc - ADR,$14.98,-$0.67,Disminuyó un 4.28 %,Líderes en materia de clima
+JHX,James Hardie Industries plc,$28.48,-$1.27,Disminuyó un 4.27 %,Líderes en materia de clima
+CABO,Cable One,$636.47,-$27.48,Disminuyó un 4.14 %,Líderes en materia de clima
+TOST,"Toast, Inc.",$21.80,-$0.88,Disminuyó un 3.88 %,Líderes en materia de clima
+MSGS,Madison Square Garden Sports Corp,$178.06,-$6.94,Disminuyó un 3.75 %,Líderes en materia de clima
+DBRG,DigitalBridge Group Inc,$15.40,-$0.60,Disminuyó un 3.75 %,Líderes en materia de clima
+BIDU,Baidu,$125.16,-$4.71,Disminuyó un 3.63 %,Líderes en materia de clima
+BZ,Kanzhun Ltd,$14.71,-$0.55,Disminuyó un 3.60 %,Líderes en materia de clima
+ITGR,Integer Holdings Corp,$83.83,-$3.09,Disminuyó un 3.55 %,Líderes en materia de clima
+TME,Tencent Music,$6.53,-$0.24,Disminuyó un 3.55 %,Líderes en materia de clima
+MP,Mp Materials Corp,$20.57,-$0.73,Disminuyó un 3.43 %,Líderes en materia de clima
+MANU,Manchester United PLC,$22.27,-$0.79,Disminuyó un 3.43 %,Líderes en materia de clima
+CIG.C,Companhia Energética de Minas Gerais,$3.96,-$0.14,Disminuyó un 3.41 %,Líderes en materia de clima
+SCCO,Southern Copper Corporation,$77.25,-$2.70,Disminuyó un 3.38 %,Líderes en materia de clima
+ZTO,ZTO Express (Cayman) Inc,$24.12,-$0.84,Disminuyó un 3.37 %,Líderes en materia de clima
+PDD,Pinduoduo,$76.98,-$2.68,Disminuyó un 3.36 %,Líderes en materia de clima
+WOLF,Wolfspeed,$42.63,-$1.47,Disminuyó un 3.33 %,Líderes en materia de clima
+DISH,Dish Network,$6.69,-$0.23,Disminuyó un 3.32 %,Líderes en materia de clima
+EL,Estée Lauder,$156.69,-$5.37,Disminuyó un 3.31 %,Líderes en materia de clima
+KMPR,Kemper Corporation,$45.58,-$1.55,Disminuyó un 3.29 %,Líderes en materia de clima
+EXPI,eXp World Holdings Inc,$19.42,-$0.65,Disminuyó un 3.24 %,Líderes en materia de clima
+MRVI,Maravai Lifesciences Holdings Inc,$10.11,-$0.33,Disminuyó un 3.16 %,Líderes en materia de clima
+RGEN,Repligen,$157.80,-$5.12,Disminuyó un 3.14 %,Líderes en materia de clima
+COIN,Coinbase Inc.,$73.19,-$2.37,Disminuyó un 3.14 %,Líderes en materia de clima
+RUN,SunRun,$14.21,-$0.46,Disminuyó un 3.14 %,Líderes en materia de clima
+OILD,MicroSectors Oil & Gas Exp And Prod 3x Inverse Leveraged ETN,$19.02,-$0.61,Disminuyó un 3.11 %,Líderes en materia de clima
+NTES,NetEase Inc,$98.29,-$3.15,Disminuyó un 3.11 %,Líderes en materia de clima
+OPEN,Opendoor,$3.16,-$0.100,Disminuyó un 3.07 %,Líderes en materia de clima
+BUR,Burford Capital Limited,$12.99,-$0.40,Disminuyó un 2.99 %,Líderes en materia de clima
+8267,AEON,"¥3,050.00",-¥46.00,Disminuyó un 1.49 %,Criptomonedas
+2502,Asahi Breweries,"¥5,326.00",-¥132.00,Disminuyó un 2.42 %,Criptomonedas
+2678,ASKUL CORP.,"¥1,949.00",+¥13.00,Aumentó un 0.67 %,Criptomonedas
+AZN,AstraZeneca,"GBX 10,657.57",-GBX 134.43,Disminuyó un 1.25 %,Criptomonedas
+ATO,Atos,€6.89,+€0.19,Aumentó un 2.77 %,Criptomonedas
+BK,Bank of New York Mellon,$44.02,-$0.080,Disminuyó un 0.18 %,Criptomonedas
+BAYN,Bayer,€50.32,-€1.01,Disminuyó un 1.97 %,Criptomonedas
+BBY,Best Buy,$78.59,+$0.87,Aumentó un 1.12 %,Criptomonedas
+BRE,Brembo,€13.00,+€0.15,Aumentó un 1.17 %,Criptomonedas
+BT.A,BT Group,GBX 113.19,+GBX 0.19,Aumentó un 0.17 %,Criptomonedas
+CLNX,Cellnex Telecom,€34.37,+€0.13,Aumentó un 0.38 %,Criptomonedas
+C09,City Developments Limited Fully Paid Ord. Shrs,$6.62,-$0.040,Disminuyó un 0.60 %,Criptomonedas
+CCEP,Coca-Cola European Partners,$62.57,+$0.29,Aumentó un 0.47 %,Criptomonedas
+CCH,Coca-Cola HBC,"GBX 2,290.00",-GBX 11.00,Disminuyó un 0.48 %,Criptomonedas
+CVS,CVS Caremark,$66.81,+$0.0100,Aumentó un 0.015 %,Criptomonedas
+1925,Daiwa House Industry Co Ltd,"¥3,861.00",-¥86.00,Disminuyó un 2.18 %,Criptomonedas
+DTE,Deutsche Telekom,€19.01,-€0.0060,Disminuyó un 0.032 %,Criptomonedas
+ORSTED,DONG Energy,kr.530.80,+kr.2.60,Aumentó un 0.49 %,Criptomonedas
+ENG,Enagás,€15.34,+€0.040,Aumentó un 0.26 %,Criptomonedas
+ENEL,Enel,€5.92,+€0.040,Aumentó un 0.68 %,Criptomonedas
+FER,Ferrovial,€28.82,-€0.37,Disminuyó un 1.27 %,Criptomonedas
+F,Ford Motor Company,$11.96,+$0.13,Aumentó un 1.10 %,Criptomonedas
+6504,Fuji Electric,"¥6,437.00",-¥73.00,Disminuyó un 1.12 %,Criptomonedas
+6702,Fujitsu,"¥17,555.00",-¥185.00,Disminuyó un 1.04 %,Criptomonedas
+GIS,General Mills,$70.21,-$0.080,Disminuyó un 0.11 %,Criptomonedas
+GIVN,Givaudan,"CHF 2,751.00",-CHF 21.00,Disminuyó un 0.76 %,Criptomonedas
+BN,Grupo Danone,€53.19,-€0.070,Disminuyó un 0.13 %,Criptomonedas
+HEI,Heidelberg Materials,€76.32,-€0.50,Disminuyó un 0.65 %,Criptomonedas
+HPQ,Hewlett-Packard,$31.06,+$0.10,Aumentó un 0.32 %,Criptomonedas
+IMB,Imperial Brands,"GBX 1,753.57",+GBX 2.07,Aumentó un 0.12 %,Criptomonedas
+IFF,International Flavors & Fragrances Inc.,$63.69,+$0.87,Aumentó un 1.38 %,Criptomonedas
+2914,Japan Tobacco,"¥3,089.00",+¥4.00,Aumentó un 0.13 %,Criptomonedas
+9107,K Line,"¥4,809.00",+¥33.00,Aumentó un 0.69 %,Criptomonedas
+4452,Kao Corporation,"¥5,681.00",-¥7.00,Disminuyó un 0.12 %,Criptomonedas
+2503,Kirin Holdings Company,"¥1,990.00",-¥15.50,Disminuyó un 0.77 %,Criptomonedas
+6301,Komatsu Limited,"¥3,907.00",-¥3.00,Disminuyó un 0.077 %,Criptomonedas
+KNEBV,KONE,€43.14,-€0.17,Disminuyó un 0.39 %,Criptomonedas
+OR,L'Oréal,€398.20,-€4.45,Disminuyó un 1.11 %,Criptomonedas
+LAND,Land Securities,GBX 585.80,-GBX 8.80,Disminuyó un 1.48 %,Criptomonedas
+LXS,Lanxess,€27.97,+€0.020,Aumentó un 0.072 %,Criptomonedas
+LVS,Las Vegas Sands,$53.34,-$0.14,Disminuyó un 0.26 %,Criptomonedas
+032640,LG Uplus Corp,"₩10,210.00",-₩30.00,Disminuyó un 0.29 %,Criptomonedas
+LOG,Logista,€24.68,-€0.26,Disminuyó un 1.04 %,Criptomonedas
+MAC,Macerich Co,$11.63,+$0.12,Aumentó un 1.04 %,Criptomonedas
+MERY,Mercialys,€7.95,-€0.12,Disminuyó un 1.43 %,Criptomonedas
+METSB,Metsa Board Oyj Class B,€7.09,-€0.085,Disminuyó un 1.18 %,Criptomonedas
+MSFT,Microsoft,$316.48,-$0.40,Disminuyó un 0.13 %,Criptomonedas
+8725,MS&AD Insurance Group Holdings Inc,"¥5,113.00",-¥49.00,Disminuyó un 0.95 %,Criptomonedas
+6268,Nabtesco Corporation,"¥2,624.00",-¥16.50,Disminuyó un 0.62 %,Criptomonedas
+NG,National Grid,GBX 951.60,+GBX 5.20,Aumentó un 0.55 %,Criptomonedas
+6701,NEC Corporation,"¥7,295.00",-¥102.00,Disminuyó un 1.38 %,Criptomonedas
+7731,Nikon,"¥1,498.50",-¥5.50,Disminuyó un 0.37 %,Criptomonedas
+4307,Nomura Research Institute Ltd,"¥3,926.00",-¥11.00,Disminuyó un 0.28 %,Criptomonedas
+NOVO-B,Novo Nordisk,"kr.1,251.20",-kr.17.60,Disminuyó un 1.39 %,Criptomonedas
+4528,Ono Pharmaceutical Co Ltd,"¥2,772.00",-¥17.00,Disminuyó un 0.61 %,Criptomonedas
+PM,Philip Morris International,$94.36,+$0.96,Aumentó un 1.03 %,Criptomonedas
+PHIA,Philips,€20.42,-€0.10,Disminuyó un 0.49 %,Criptomonedas
+BAMNB,Royal BAM Group,€1.94,-€0.047,Disminuyó un 2.37 %,Criptomonedas
+SBRY,Sainsbury's,GBX 261.32,-GBX 1.48,Disminuyó un 0.56 %,Criptomonedas
+CRM,Salesforce.com,$204.83,+$0.99,Aumentó un 0.49 %,Criptomonedas
+SU,Schneider Electric,€154.32,-€0.32,Disminuyó un 0.21 %,Criptomonedas
+4204,Sekisui Chemical Co Ltd,"¥2,178.00",-¥1.00,Disminuyó un 0.046 %,Criptomonedas
+LIGHT,Signify NV,€25.39,-€0.46,Disminuyó un 1.78 %,Criptomonedas
+SOP,Sopra,€197.90,-€1.10,Disminuyó un 0.55 %,Criptomonedas
+SWK,"Stanley Black & Decker, Inc.",$89.72,+$0.23,Aumentó un 0.26 %,Criptomonedas
+4005,Sumitomo Chemical Co Ltd,¥390.00,+¥1.30,Aumentó un 0.33 %,Criptomonedas
+1911,Sumitomo Forestry Co Ltd,"¥3,891.00",-¥259.00,Disminuyó un 6.24 %,Criptomonedas
+SY1,Symrise,€88.52,-€0.94,Disminuyó un 1.05 %,Criptomonedas
+TEF,Telefónica,€3.63,+€0.023,Aumentó un 0.64 %,Criptomonedas
+TKA,ThyssenKrupp,€6.96,-€0.15,Disminuyó un 2.05 %,Criptomonedas
+1860,Toda Corp,¥791.00,-¥7.70,Disminuyó un 0.96 %,Criptomonedas
+5423,Tokyo Steel Manufacturing Co Ltd,"¥1,581.00",-¥14.00,Disminuyó un 0.88 %,Criptomonedas
+7203,Toyota,"¥2,349.00",-¥28.00,Disminuyó un 1.18 %,Criptomonedas
+ULVR,Unilever,"GBX 3,979.50",-GBX 36.50,Disminuyó un 0.91 %,Criptomonedas
+BTC,Bitcoin (BTC / USD),"25,926.20",-122.60,Disminuyó un 0.47 %,Monedas
+ETH,Ether (ETH / USD),"1,660.18",-1.21,Aumentó un 0.011 %,Monedas
+ADA,Cardano (ADA / USD),0.2642,+0.00021,Aumentó un 0.078 %,Monedas
+BNB,Binance Coin (BNB / USD),215.9772,-0.1571,Disminuyó un 0.031 %,Monedas
+USDT,Tether (USDT / USD),0.9997,+0.000020,Aumentó un 0.0020 %,Monedas
+XRP,XRP (XRP / USD),0.5063,-0.00011,Disminuyó un 0.021 %,Monedas
+DOGE,Dogecoin (DOGE / USD),0.0637,+0.00045,Aumentó un 0.72 %,Monedas
+LINK,ChainLink (LINK / USD),6.2113,+0.0356,Aumentó un 0.57 %,Monedas
+LTC,Litecoin (LTC / USD),64.02,+0.060,Aumentó un 0.20 %,Monedas
+BCH,Bitcoin Cash (BCH / USD),188.49,+1.13,Aumentó un 0.78 %,Monedas
+XLM,Stellar (XLM / USD),0.1197,+0.0031,Aumentó un 2.64 %,Monedas
+TRX,TRON (TRX / USD),0.0736,+0.00046,Aumentó un 0.63 %,Monedas
+ETC,Ethereum Classic (ETC / USD),15.4147,-0.0207,Disminuyó un 0.13 %,Monedas
+XMR,Monero (XMR / USD),144.6605,+0.9383,Aumentó un 0.65 %,Monedas
+EOS,EOS (EOS / USD),0.5734,-0.00090,Disminuyó un 0.16 %,Monedas
+NEO,NEO (NEO / USD),7.0735,+0.0701,Aumentó un 1.00 %,Monedas
+WAVES,Waves (WAVES / USD),2.4973,-0.0052,Disminuyó un 0.21 %,Monedas
+DASH,Dash (DASH / USD),26.5177,+0.0418,Aumentó un 0.17 %,Monedas
+OMG,OmiseGO (OMG / USD),0.4837,+0.0094,Aumentó un 1.97 %,Monedas
+DCR,Decred (DCR / USD),12.9334,-0.1250,Disminuyó un 0.96 %,Monedas
+XEM,NEM (XEM / USD),0.0250,+0.000064,Aumentó un 0.26 %,Monedas
+MANA,Decentraland (MANA / USD),0.3059,-0.00051,Disminuyó un 0.17 %,Monedas
+ICX,ICON (ICX / USD),0.1715,+0.00023,Aumentó un 0.13 %,Monedas
+QTUM,Qtum (QTUM / USD),2.2115,+0.0294,Aumentó un 1.35 %,Monedas
+ZIL,Zilliqa (ZIL / USD),0.0167,-0.000027,Disminuyó un 0.16 %,Monedas
+BAT,Basic Attention Token (BAT / USD),0.1716,+0.00054,Aumentó un 0.27 %,Monedas
+BTG,Bitgem (BTG / USD),13.1388,-0.2453,Disminuyó un 1.79 %,Monedas
+BNT,Bancor (BNT / USD),0.4210,+0.0065,Aumentó un 1.57 %,Monedas
+ZRX,0x (ZRX / USD),0.1772,+0.0033,Aumentó un 1.87 %,Monedas
+SC,Siacoin (SC / USD),0.0029,+0.000038,Aumentó un 1.35 %,Monedas
+ONT,Ontology (ONT / USD),0.1641,+0.00076,Aumentó un 0.47 %,Monedas
+DGB,DigiByte (DGB / USD),0.0069,+0.000046,Aumentó un 0.67 %,Monedas
+NANO,Nano (NANO / USD),3.0841,-0.0144,Disminuyó un 0.47 %,Monedas
+LSK,Lisk (LSK / USD),0.7142,+0.0063,Aumentó un 0.88 %,Monedas
+GNO,Gnosis (GNO / USD),102.5334,+1.9135,Aumentó un 1.90 %,Monedas
+XVG,Verge (XVG / USD),0.0035,+0.000061,Aumentó un 1.77 %,Monedas
+ARDR,Ardor (ARDR / USD),0.0626,+0.00020,Aumentó un 0.32 %,Monedas
+SNT,Status (SNT / USD),0.0214,+0.00016,Aumentó un 0.75 %,Monedas
+MAID,MaidSafeCoin (MAID / USD),0.1708,-0.0041,Disminuyó un 2.36 %,Monedas
+REP,Augur (REP / USD),3.6842,+0.0477,Disminuyó un 0.12 %,Monedas
+ARK,Ark (ARK / USD),0.2498,+0.0123,Aumentó un 5.18 %,Monedas
+FUN,FunFair (FUN / USD),0.0039,+0.0000029,Aumentó un 0.074 %,Monedas
+STEEM,Steem (STEEM / USD),0.1570,-0.00073,Disminuyó un 0.47 %,Monedas
+SYS,Syscoin (SYS / USD),0.0897,+0.00041,Aumentó un 0.46 %,Monedas
+WAN,Wanchain (WAN / USD),0.1799,-0.00012,Disminuyó un 0.069 %,Monedas
+BTS,BitShares (BTS / USD),0.0088,+0.000063,Aumentó un 0.72 %,Monedas
+KMD,Komodo (KMD / USD),0.1945,-0.0012,Disminuyó un 0.60 %,Monedas
+MONA,MonaCoin (MONA / USD),0.3930,+0.0059,Aumentó un 1.53 %,Monedas
+GAS,Gas (GAS / USD),2.2449,+0.0121,Aumentó un 0.54 %,Monedas
+RDD,ReddCoin (RDD / USD),0.000052,-0.0000,Disminuyó un 0.22 %,Monedas
+BTM,Bytom (BTM / USD),0.0257,+0.00043,Aumentó un 1.68 %,Monedas
+WTC,Waltonchain (WTC / USD),0.1445,-0.0013,Disminuyó un 0.92 %,Monedas
+AION,Aion (AION / USD),0.0011,-0.000017,Disminuyó un 1.52 %,Monedas
+GRS,Groestlcoin (GRS / USD),0.4570,-0.0187,Disminuyó un 3.92 %,Monedas
+BCN,Bytecoin (BCN / USD),0.00023,-0.000053,Disminuyó un 18.50 %,Monedas
+VERI,Veritaseum (VERI / USD),12.4514,-0.0364,Disminuyó un 0.29 %,Monedas
+DGD,DigixDAO (DGD / USD),233.5042,-1.1077,Disminuyó un 0.47 %,Monedas
+PIVX,PIVX (PIVX / USD),0.1540,-0.0017,Disminuyó un 1.09 %,Monedas
+NXS,Nexus (NXS / USD),0.0411,-0.00017,Disminuyó un 0.41 %,Monedas
+PPT,Populous (PPT / USD),0.0682,-0.00033,Disminuyó un 0.48 %,Monedas
+QASH,QASH (QASH / USD),0.0181,-0.0024,Disminuyó un 11.71 %,Monedas
+NEBL,Neblio (NEBL / USD),0.1505,-0.00070,Disminuyó un 0.47 %,Monedas
+SALT,SALT (SALT / USD),0.0216,-0.00018,Disminuyó un 0.84 %,Monedas
+GAME,GameCredits (GAME / USD),0.0088,+0.00036,Aumentó un 4.21 %,Monedas
+FCT,Factom (FCT / USD),0.6847,-0.0068,Disminuyó un 0.99 %,Monedas
+NXT,Nxt (NXT / USD),0.0013,-0.000032,Disminuyó un 2.31 %,Monedas
+PAY,TenX (PAY / USD),0.0088,-0.000068,Disminuyó un 0.47 %,Monedas
+XDN,DigitalNote (XDN / USD),0.000026,+0.0000,Aumentó un 2.62 %,Monedas
+SUB,Substratum (SUB / USD),0.00042,+0.0000011,Aumentó un 0.25 %,Monedas
+KNC,KingN Coin (KNC / USD),0.5406,-0.000036,Disminuyó un 0.0066 %,Monedas
+GNT,Golem (GNT / USD),0.2966,-0.0021,Disminuyó un 0.71 %,Monedas
+REQ,Request Network (REQ / USD),0.0665,-0.000029,Disminuyó un 0.043 %,Monedas
+VGX,Voyager Tokens (VGX / USD),1.4914,+0.0309,Aumentó un 2.10 %,Monedas
+TNB,Time New Bank (TNB / USD),0.0031,+0.0000,Aumentó un 0.022 %,Monedas
+ZCL,ZClassic (ZCL / USD),0.0981,-0.00027,Disminuyó un 0.28 %,Monedas
+HSR,Hshare (HSR / USD),0.1816,-0.00048,Disminuyó un 0.27 %,Monedas
+ICN,iCoin (ICN / USD),0.9834,-0.0039,Disminuyó un 0.39 %,Monedas
+POWR,Powerledger (POWR / USD),0.1343,+0.0022,Aumentó un 1.67 %,Monedas
+ENG,Enigma (ENG / USD),0.0043,-0.00020,Disminuyó un 4.50 %,Monedas
+SAN,Santiment Network Token (SAN / USD),0.1016,+0.00013,Aumentó un 0.13 %,Monedas
+ELF,aelf (ELF / USD),0.2835,+0.0022,Aumentó un 0.74 %,Monedas
+STRAT,Stratis (STRAT / USD),0.0364,+0.0000081,Aumentó un 0.022 %,Monedas
+QSP,Quantstamp (QSP / USD),0.0155,-0.00016,Disminuyó un 1.00 %,Monedas
+RDN,Raiden Network Token (RDN / USD),0.1144,-0.00053,Disminuyó un 0.47 %,Monedas
